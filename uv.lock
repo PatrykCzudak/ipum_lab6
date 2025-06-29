@@ -1792,7 +1792,7 @@ wheels = [
 ]
 
 [[package]]
-name = "mlops-course-agh-lab-09"
+name = "mlops-course-agh-lab-06"
 version = "1.0.0"
 source = { virtual = "." }
 dependencies = [
